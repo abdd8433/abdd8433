@@ -1,5 +1,5 @@
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20dsfg&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Abdullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <!-- Typing animation -->
 <p align="center">
@@ -53,7 +53,7 @@
 </picture>
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINK](https://www.linkedin.com/in/abdullah-ahmed-678b88243/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abdullah-ahmed-678b88243/?isSelfProfile=true))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahahmed8433@gmail.com)
 
 <!-- Animated footer -->
