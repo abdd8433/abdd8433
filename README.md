@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ML+%2F+AI+Engineer;Building+NLP+%26+RAG+pipelines;Full+Stack+Developer;Open+source+contributor" alt="Typing SVG"/>
 </p>
 
+<!-- Profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdd8433&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
 ## 🧠 About
 - Building and refining NLP pipelines
 - Full stack development
@@ -26,6 +31,12 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdd8433&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdd8433&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdd8433/abdd8433/output/github-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/abdd8433/abdd8433/output/github-snake.svg">
+</picture>
 
 <!-- Animated footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
