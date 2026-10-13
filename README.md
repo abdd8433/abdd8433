@@ -1,5 +1,5 @@
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Abdullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20dsfg&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <!-- Typing animation -->
 <p align="center">
@@ -12,9 +12,9 @@
 </p>
 
 ## 🧠 About
-- Building and refining NLP pipelines
-- Full stack development
-- Open source contributions
+- 🔭 Working on: NLP / RAG pipelines and handwriting recognition
+- 🌱 Learning: ...
+- 🤝 Open to: open-source collaboration
 
 ## 🛠 Stack
 <p>
@@ -26,17 +26,35 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+## 🚀 Featured Projects
+| Project | What it does |
+|---|---|
+| [Legal Complaint RAG](https://github.com/abdd8433/REPO) | RAG pipeline for legal complaints (LangChain + FAISS) |
+| [AmanuensisAi](https://github.com/abdd8433/REPO) | Handwriting recognition (EMNIST + HASYv2) |
+| [dentalpin contributions](https://github.com/dentalpin/dentalpin/pulls?q=author%3Aabdd8433) | Open-source PRs |
+
 ## 📊 Stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdd8433&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdd8433&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+<p>
+  <img height="140" src="https://streak-stats.demolab.com?user=abdd8433&theme=tokyonight&hide_border=true"/>
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdd8433&theme=tokyo-night&hide_border=true" width="100%"/>
+
+## 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=abdd8433&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 ## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdd8433/abdd8433/output/github-snake-dark.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/abdd8433/abdd8433/output/github-snake.svg">
 </picture>
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINK](https://www.linkedin.com/in/abdullah-ahmed-678b88243/?isSelfProfile=true))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahahmed8433@gmail.com)
 
 <!-- Animated footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
